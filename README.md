@@ -12,5 +12,12 @@
 5. The next step here
  ![image](https://user-images.githubusercontent.com/31314340/211135125-0a12861a-f1c2-45d7-8fd6-aa167aff6e12.png)
 
-6. Unlock your Metamask wallet and Connect to Redbelly-devnet
-   
+6. Unlock your Metamask wallet and Connect to Redbelly-devney
+ ![image](https://github.com/lbn02/Deploy-Redbelly-Contract/blob/main/Screenshot%202023-12-27%20at%2020.30.04.png)
+Go to your metamask wallet and approve transaction.
+
+7. You would see this
+ ![image](https://github.com/lbn02/Deploy-Redbelly-Contract/blob/main/Screenshot%202023-12-27%20at%2021.00.10.png)
+
+8. Contract has been successfully deployed.
+ ![image](https://github.com/lbn02/Deploy-Redbelly-Contract/blob/main/Screenshot%202023-12-27%20at%2021.03.32.png)
